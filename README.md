@@ -6,6 +6,8 @@ Animatrix demonstrates modern Android development with Hilt, Coroutines, Flow, J
 
 <img src="https://github.com/amanverma-765/Animatrix/assets/46085882/6b6034ad-35e5-4e31-a652-4542509f6619" align="right" width="320"/>
 
+<br>
+
 ## Tech stack & Open-source libraries
 - Minimum SDK level 24.
 - [Kotlin](https://kotlinlang.org/) based, utilizing [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous operations.
@@ -36,6 +38,6 @@ Animatrix demonstrates modern Android development with Hilt, Coroutines, Flow, J
 - This loosely coupled architecture enhances component reusability and app scalability, facilitating seamless development and maintenance.
 
 ## Rest Api
-Animatrix is using the [Neko](https://docs.nekos.best/) for constructing RESTful API
+Animatrix is using the [Nekos.best](https://docs.nekos.best/) for constructing RESTful API
 
 
